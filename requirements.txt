@@ -1,9 +1,9 @@
+streamlit
 langchain
 langchain-community
-langchain-core
+langchain-openai
 langchain-huggingface
-chromadb
-sentence-transformers
+faiss-cpu
+python-dotenv
 pypdf
-streamlit
-ollama
+sentence-transformers
